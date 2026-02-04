@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
 # مواصفات لوحة التحكم
 
